@@ -1,6 +1,6 @@
 # Hi, I'm 曹宁 (Caoning)
 
-**Full-stack / AI Application Developer** · 杭州心向无限
+**Full-stack / AI Application Developer**
 
 3 年全栈开发经验，专注 Vue / React 生态与 AI 应用落地。具备 Nuxt / Next.js 全栈交付、Supabase / Stripe 集成及 LLM 接入经验。
 
